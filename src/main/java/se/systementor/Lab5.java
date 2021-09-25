@@ -43,12 +43,12 @@ public class Lab5 {
                 resultat5);
 
             int resultat6 = tal1 / tal2;
-            System.out.printf("%d heltalsdiv %d is %d\n",
+            System.out.printf("%d / %d is %d\n",
                 tal1,
                 tal2, 
                 resultat6);
             int resultat7 = tal1 % tal2;
-            System.out.printf("%d reminder %d is %d\n",
+            System.out.printf("%d remainder %d is %d\n",
                 tal1,
                 tal2, 
                 resultat7);
